@@ -1,4 +1,4 @@
-Format: ![Neelix Task Manager for Jira](https://res.cloudinary.com/agilistai/image/upload/v1561354206/neelix/cover_photo.png)
+![Neelix Task Manager for Jira](https://res.cloudinary.com/agilistai/image/upload/v1561354206/neelix/cover_photo.png)
 ### Neelix Task Manager for Jira is designed to significantly improve activities management and common experiences for the team.
 
 Jira is easy to use out of the box. However, things get a little dicey once you introduce your own organisational context (custom fields, etc). Ease of use diminishes, just as it would for any other flexible framework. Extra thought, and often guesswork, regarding  classification attributes becomes a significant burden over time. In some cases people vote for a move to GitHub.
