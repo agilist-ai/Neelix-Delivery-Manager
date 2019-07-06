@@ -16,20 +16,3 @@ The approach is to solve this issue in a somewhat similar manner how smartphones
 ### Markeplace
 
 [Jira marketplace listing](https://marketplace.atlassian.com/apps/1220774/neelix-task-manager?hosting=cloud&tab=overview)
-
-### Releases
-
-#### Baseline 2.0 release
-
-##### What changed
- - Baseline functionality upgrade for Task Set & Subtask Templates
- - New Dynamic Grid component
- - New Robo Analytics component
- - New Experiences and Retro management components
- - New Issue links visualisation component
- - New Approach grid component
- 
-#### Baseline 2.1 release
-
-##### What changed
-- Implemented [capability to edit Approach grid timeline with keyboard](https://github.com/agilist-ai/Neelix-for-Jira-Cloud/issues/1) - see [Approach Grid FAQ](https://neelix.app/neelix-for-jira-faq-approach-grid)
