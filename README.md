@@ -13,6 +13,6 @@ The philosophy is that even most technically capable folks do not need to spend 
 [User Guide and Demos](https://neelix.app/)
 
 
-### Markeplace
+### Marketplace
 
 [Jira marketplace listing](https://marketplace.atlassian.com/apps/1220774/neelix-task-manager?hosting=cloud&tab=overview)
